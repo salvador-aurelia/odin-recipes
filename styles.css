@@ -1,0 +1,31 @@
+*{
+    color:white;
+    background-color: black;
+}
+
+.Ingredients {
+    color:red;
+    
+}
+h1{
+    color: slategray;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+
+img{
+    height: auto;
+    width: 250px;
+    text-align: center;
+}
+
+.food-image{
+    text-align: center;
+}
+
+
